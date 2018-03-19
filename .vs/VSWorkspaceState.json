@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\article",
+    "\\src\\app\\vendor\\themes",
+    "\\src\\app\\vendor\\themes\\default",
+    "\\src\\app\\vendor\\themes\\default\\assets"
+  ],
+  "SelectedNode": "\\src\\app\\article\\article.model.ts",
+  "PreviewInSolutionExplorer": false
+}
